@@ -1,0 +1,19 @@
+# Arquivos de configuração do Eclipse
+.classpath
+.project
+.settings/
+
+# Arquivos de compilação do java
+*.class
+
+# Relatórios e saída de teste
+
+/test-output/
+extent-report/
+
+# Logs e arquivos temporários
+
+logs/
+*.log
+*.tmp
+/target/
